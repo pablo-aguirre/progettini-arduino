@@ -6,3 +6,4 @@ Una serie di progetti (molto) semplici:
 4. Controlla servomotor(ino)
 5. Theremin(ino)
 6. Tastier(ino)
+7. Clessidr(ino)
