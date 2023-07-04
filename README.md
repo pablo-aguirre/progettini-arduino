@@ -7,3 +7,4 @@ Una serie di progetti (molto) semplici:
 5. Theremin(ino)
 6. Tastier(ino)
 7. Clessidr(ino)
+8. Sfera di cristall(ino)
